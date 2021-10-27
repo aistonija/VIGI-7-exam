@@ -8,6 +8,16 @@ atveju grąžins visų "users" amžiaus visurkį kaip skaičių.
 atveju grąžins visų "users" vardus naujame masyve pvz., ['John Smith', 'Ann Smith'..].
 -------------------------------------------------------------------------- */
 
+/* ------------------------------ TASK 6 -----------------------------------
+You'll find "users" array below.
+
+Write:
+
+1. function "getUserAverageAge" - as an argument will receive an array, and once called returns all average age as number.
+
+2. function "getUsersNames" - as an argument will receive an array, and once called returns all users names in new array.
+-------------------------------------------------------------------------- */
+
 const users = [
   { id: "1", name: "John Smith", age: 20 },
   { id: "2", name: "Ann Smith", age: 24 },
