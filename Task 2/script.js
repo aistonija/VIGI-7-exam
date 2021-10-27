@@ -3,3 +3,7 @@ Parašykite JS kodą, kuris skaičiuos kiek kartų buvo paspaustas mygtukas
 su tekstu "CLICK ME". Paspaudimų rezultatas turi būti matomas dešinėje
 pusėje esančiame "state" skaičiavimo bloke (<div id="btn__state">0</div>)
 ------------------------------------------------------------------- */
+
+/* ------------------------------ TASK 2 ENGLISH ----------------------------
+Write JS code, which will count how many times the button with text "CLICK ME" was clicked. Result of the clicks must be seen on the right side counting state block (<div id="btn__state">0</div>)
+------------------------------------------------------------------- */
