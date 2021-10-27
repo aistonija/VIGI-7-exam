@@ -8,6 +8,16 @@ atveju grąžins "users", kurie turi augintinį.
 atveju grąžins masyvą su "users", kurie yra pilnamečiai.
 -------------------------------------------------------------------------- */
 
+/* ------------------------------ TASK 5 -----------------------------------
+You'll find "users" array below.
+
+Write:
+
+1. function "filterDogOwners" - as an argument will receive an array, and once called returns only users, that has dog.
+
+2. function "filterAdults" - as an argument will receive an array, and once called returns only users, that are adults according to their age.
+-------------------------------------------------------------------------- */
+
 const users = [
   { id: "1", name: "John Smith", age: 20, hasDog: true },
   { id: "2", name: "Ann Smith", age: 24, hasDog: false },
